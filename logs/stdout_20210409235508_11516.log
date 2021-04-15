@@ -1,0 +1,12 @@
+It was not possible to find any compatible framework version
+The framework 'Microsoft.AspNetCore.App', version '2.2.0' was not found.
+  - The following frameworks were found:
+      2.1.26 at [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+      3.1.13 at [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+      5.0.4 at [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+      5.0.5 at [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+
+You can resolve the problem by installing the specified framework and/or SDK.
+
+The specified framework can be found at:
+  - https://aka.ms/dotnet-core-applaunch?framework=Microsoft.AspNetCore.App&framework_version=2.2.0&arch=x64&rid=win10-x64

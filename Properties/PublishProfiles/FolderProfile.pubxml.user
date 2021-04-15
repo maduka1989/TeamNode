@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\NodeCMB\App\Published\NodeCMB</_PublishTargetUrl>
+    <History>True|2021-04-12T16:19:33.2788971Z;True|2021-04-12T21:21:48.1550647+05:30;True|2021-04-10T11:07:30.0690629+05:30;True|2021-04-10T07:13:02.2686843+05:30;True|2021-04-10T07:10:44.7543467+05:30;True|2021-04-10T06:53:39.2055043+05:30;</History>
+  </PropertyGroup>
+</Project>

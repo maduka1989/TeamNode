@@ -1,0 +1,7 @@
+D:\NodeCMB\App\NodeCMB API\NodeCMBAPI\obj\Release\netcoreapp2.2\PubTmp\Out\web.config
+D:\NodeCMB\App\NodeCMB API\NodeCMBAPI\obj\Release\netcoreapp2.2\PubTmp\Out\appsettings.Development.json
+D:\NodeCMB\App\NodeCMB API\NodeCMBAPI\obj\Release\netcoreapp2.2\PubTmp\Out\appsettings.json
+D:\NodeCMB\App\NodeCMB API\NodeCMBAPI\obj\Release\netcoreapp2.2\PubTmp\Out\NodeCMBAPI.dll
+D:\NodeCMB\App\NodeCMB API\NodeCMBAPI\obj\Release\netcoreapp2.2\PubTmp\Out\NodeCMBAPI.runtimeconfig.json
+D:\NodeCMB\App\NodeCMB API\NodeCMBAPI\obj\Release\netcoreapp2.2\PubTmp\Out\NodeCMBAPI.pdb
+D:\NodeCMB\App\NodeCMB API\NodeCMBAPI\obj\Release\netcoreapp2.2\PubTmp\Out\NodeCMBAPI.deps.json
